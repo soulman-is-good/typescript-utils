@@ -1,5 +1,5 @@
 {
-  "name": "@savinmax/typescript",
+  "name": "soulman-ts",
   "version": "1.0.0",
   "description": "Helper types and functions",
   "main": "dist/index.js",
